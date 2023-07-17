@@ -12,3 +12,9 @@ This assignment is broken down into the following tasks:
 -Create a line plot and a scatter plot.
 -Calculate correlation and regression.
 -Submit your final analysis.
+
+
+
+
+Sources:
+https://github.com/redeat17/Matplotlib-Challenge/blob/master/pymaceuticals_starter.ipynb
