@@ -13,6 +13,9 @@ This is broken down into the following tasks:
 -Calculate correlation and regression.
 -Submit your final analysis.
 
+### Summary Analysis
+
+The Capomulin drug regimen in comparison to the other drugs is very effective. The only other drug that is possibly more effective would be Ramicane.  Ramicane and Capomulin had the smallest tumor volumes during treatment and also the smallest margin of error. 
 
 
 
